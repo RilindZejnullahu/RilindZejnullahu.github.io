@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/data/stops.txt": "23af4a604d7297b6e4c97ea3f90dce3d",
 "assets/assets/data/stops2.txt": "0b7f2970d2ea40500bd112b1ab3ad6e4",
 "assets/assets/images/bus.png": "026dbe330c2843ba2360b76add277555",
-"assets/assets/images/bus2.png": "b3be352470cf7d1ec55823cb83fdb305",
+"assets/assets/images/bus2.png": "74980e99b1708040c6931968cf13b029",
 "assets/assets/images/circle.png": "936a3a061916034351ed888509113994",
 "assets/assets/images/train.png": "a3e3f7b24e83a4ad83bfcbb51a605d90",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -17,9 +17,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bba9a39f3cbdb7d1ec8cd480de769fde",
-"/": "bba9a39f3cbdb7d1ec8cd480de769fde",
-"main.dart.js": "529eae8d4e81e016bfb30f101d54307a",
+"index.html": "76c07dd6ce7e77c63f03ca83ef9029ac",
+"/": "76c07dd6ce7e77c63f03ca83ef9029ac",
+"main.dart.js": "f71e2a90343b6ca9e5cec68a10da37d1",
 "manifest.json": "c5892224b8638f883387765acbd1da04",
 "version.json": "7d01db3330c0f81fcf135a6d0a07b1f7"
 };
