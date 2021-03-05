@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6afcedd0af0dae97838b35246692816e",
+  "assets/AssetManifest.json": "31e9d3a30bc32192fd43bc8bd2bafbc7",
 "assets/assets/data/stops.txt": "23af4a604d7297b6e4c97ea3f90dce3d",
 "assets/assets/data/stops2.txt": "0b7f2970d2ea40500bd112b1ab3ad6e4",
 "assets/assets/images/bus.png": "74980e99b1708040c6931968cf13b029",
 "assets/assets/images/busCircle.png": "48b2e767a427c45d9e45d0f6565a3858",
+"assets/assets/images/nighttrain.png": "4dcb5f0a5caa210dd0d98606e9f54d6d",
+"assets/assets/images/nighttrainCircle.png": "6ba6a9ae68a8de71bab1cc52cb4d5176",
 "assets/assets/images/taxi.png": "841220e51a00b9b5fcc476962ccbe928",
 "assets/assets/images/taxiCircle.png": "b0b2147ea89277162d879aeeb619eba6",
 "assets/assets/images/train.png": "a6104e1c9cf429fd03293001a95fa00b",
@@ -22,9 +24,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a990ea68ec42145ebea2c51a155f5ff1",
-"/": "a990ea68ec42145ebea2c51a155f5ff1",
-"main.dart.js": "c05ab3739e72eed2b88ea43b0232d576",
+"index.html": "4e1a4a2cb7891374fbc7b4a7c352bbb1",
+"/": "4e1a4a2cb7891374fbc7b4a7c352bbb1",
+"main.dart.js": "f82388882911692e67ef1fbc194c33e3",
 "manifest.json": "c5892224b8638f883387765acbd1da04",
 "version.json": "7d01db3330c0f81fcf135a6d0a07b1f7"
 };
