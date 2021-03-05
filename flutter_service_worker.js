@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "31e9d3a30bc32192fd43bc8bd2bafbc7",
+  "assets/AssetManifest.json": "1e2e36c9b3175e7939a5cfb04afc1ee0",
 "assets/assets/data/stops.txt": "23af4a604d7297b6e4c97ea3f90dce3d",
 "assets/assets/data/stops2.txt": "0b7f2970d2ea40500bd112b1ab3ad6e4",
 "assets/assets/images/bus.png": "74980e99b1708040c6931968cf13b029",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/images/taxi.png": "841220e51a00b9b5fcc476962ccbe928",
 "assets/assets/images/taxiCircle.png": "b0b2147ea89277162d879aeeb619eba6",
 "assets/assets/images/train.png": "a6104e1c9cf429fd03293001a95fa00b",
+"assets/assets/images/trainBase.png": "a3e3f7b24e83a4ad83bfcbb51a605d90",
 "assets/assets/images/trainCircle.png": "d26c0100870b69d84e5017caee298326",
 "assets/assets/images/wait.png": "4b305712c0dba3a8b3f6294ae7b3f0f1",
 "assets/assets/images/walk.png": "a52265e6d7c73be384a90e8518903221",
@@ -24,9 +25,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4e1a4a2cb7891374fbc7b4a7c352bbb1",
-"/": "4e1a4a2cb7891374fbc7b4a7c352bbb1",
-"main.dart.js": "f82388882911692e67ef1fbc194c33e3",
+"index.html": "cdffb67bbaa076729b4930fbcdd53f2a",
+"/": "cdffb67bbaa076729b4930fbcdd53f2a",
+"main.dart.js": "4f1d045d32d78043b29fcb26627f7208",
 "manifest.json": "c5892224b8638f883387765acbd1da04",
 "version.json": "7d01db3330c0f81fcf135a6d0a07b1f7"
 };
