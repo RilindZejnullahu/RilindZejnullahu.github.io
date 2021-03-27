@@ -3,13 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "dba6c24bc967d0e927e07385738d0e86",
+  "assets/AssetManifest.json": "93c08bf9bac00f1f9031b6c8579369d2",
 "assets/assets/data/stops.txt": "23af4a604d7297b6e4c97ea3f90dce3d",
 "assets/assets/data/stops2.txt": "0b7f2970d2ea40500bd112b1ab3ad6e4",
 "assets/assets/images/bus.png": "74980e99b1708040c6931968cf13b029",
 "assets/assets/images/busCircle.png": "48b2e767a427c45d9e45d0f6565a3858",
+"assets/assets/images/expressBus.png": "1bd8c1c956ff2b734d799ca847791cfa",
+"assets/assets/images/expressBusCircle.png": "72a6db60841655282f13292e5dd1b403",
 "assets/assets/images/nighttrain.png": "4dcb5f0a5caa210dd0d98606e9f54d6d",
 "assets/assets/images/nighttrainCircle.png": "6ba6a9ae68a8de71bab1cc52cb4d5176",
+"assets/assets/images/oresundTrain.png": "21c9c12ead858075f422db7c6fbb1410",
+"assets/assets/images/oresundTrainCircle.png": "6639280d58da6ccfa2c7688c287e37cd",
+"assets/assets/images/regionBus.png": "6b1aa51df63b251996b32e65ffb11c4e",
+"assets/assets/images/regionBusCircle.png": "f792652e3df2fd1ab30ae3d2421d23e9",
 "assets/assets/images/taxi.png": "841220e51a00b9b5fcc476962ccbe928",
 "assets/assets/images/taxiCircle.png": "b0b2147ea89277162d879aeeb619eba6",
 "assets/assets/images/train.png": "a6104e1c9cf429fd03293001a95fa00b",
@@ -26,9 +32,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "440e99b9ee4b45af9e1f53e25b2079aa",
-"/": "440e99b9ee4b45af9e1f53e25b2079aa",
-"main.dart.js": "65923cd4c2d05140cf6010fde88979e2",
+"index.html": "2e3383fda9e4ca65790ba199a6199464",
+"/": "2e3383fda9e4ca65790ba199a6199464",
+"main.dart.js": "384f46ad550e720da5a6617ce6833ce1",
 "manifest.json": "c5892224b8638f883387765acbd1da04",
 "version.json": "7d01db3330c0f81fcf135a6d0a07b1f7"
 };
