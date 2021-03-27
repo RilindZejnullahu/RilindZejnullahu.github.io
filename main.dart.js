@@ -72859,7 +72859,7 @@ return P.N($async$nN,r)},
 rD:function(a){var s=a.x
 if(s==="7"&&a.y==="Sk\xe5netrafiken"){s=a.r
 if(P.bS(C.c.bg(s,J.aa(s).ec(s," ")+1),null)>=100)return"Regionbuss"+C.c.bg(s,C.c.ec(s," "))
-return"Stadbuss"+C.c.bg(s,C.c.ec(s," "))}else if(s==="2"&&a.y==="\xd6resundst\xe5g"){s=a.r
+return"Stadsbuss"+C.c.bg(s,C.c.ec(s," "))}else if(s==="2"&&a.y==="\xd6resundst\xe5g"){s=a.r
 return"\xd6resundst\xe5g"+C.c.bg(s,J.aa(s).ec(s," "))}else if(s==="4"&&a.y==="Sk\xe5netrafiken"){s=a.r
 return"P\xe5gat\xe5g"+C.c.bg(s,J.aa(s).ec(s," "))}else{s=a.r
 if(J.aa(s).w(s,"Regional"))return C.c.bg(s,9)
@@ -73101,7 +73101,7 @@ $S:3}
 B.u4.prototype={
 rD:function(a){var s,r=a.x
 if(r==="7"&&a.y==="Sk\xe5netrafiken"){r=a.r
-s=P.bS(C.c.bg(r,J.aa(r).ec(r," ")+1),null)>=100?"Regionbuss"+C.c.bg(r,C.c.ec(r," ")):"Stadbuss"+C.c.bg(r,C.c.ec(r," "))}else if(r==="2"&&a.y==="\xd6resundst\xe5g"){r=a.r
+s=P.bS(C.c.bg(r,J.aa(r).ec(r," ")+1),null)>=100?"Regionbuss"+C.c.bg(r,C.c.ec(r," ")):"Stadsbuss"+C.c.bg(r,C.c.ec(r," "))}else if(r==="2"&&a.y==="\xd6resundst\xe5g"){r=a.r
 s="\xd6resundst\xe5g"+C.c.bg(r,J.aa(r).ec(r," "))}else if(r==="4"&&a.y==="Sk\xe5netrafiken"){r=a.r
 s="P\xe5gat\xe5g"+C.c.bg(r,J.aa(r).ec(r," "))}else{s=a.r
 if(s==="WALK"||s==="TRSF")return""}return C.c.X(J.i3(s," mot "),a.Q)},
