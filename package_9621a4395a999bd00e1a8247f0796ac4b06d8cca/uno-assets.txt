@@ -1,4 +1,5 @@
 Assets/SplashScreen.png
+Assets/Data/stops2.txt
 Assets/Images/bus.png
 Assets/Images/busCircle.png
 Assets/Images/expressBus.png
