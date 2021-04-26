@@ -5,11 +5,11 @@ let config = {};
 self.addEventListener('install', function (e) {
     console.debug('[ServiceWorker] Installing offline worker');
     e.waitUntil(
-        fetch("./package_d99b29125409cb8e9bf6ae600d7c8ae478e86acc/uno-config.js")
+        fetch("./package_3df3fa6e7f6629ba519b11db512dd0da8b92d3d8/uno-config.js")
             .then(r => r.text()
                 .then(configStr => {
                     eval(configStr);
-                    caches.open('package_d99b29125409cb8e9bf6ae600d7c8ae478e86acc').then(function (cache) {
+                    caches.open('package_3df3fa6e7f6629ba519b11db512dd0da8b92d3d8').then(function (cache) {
                         console.debug('[ServiceWorker] Caching app binaries and content');
                         return cache.addAll(config.offline_files);
                     });
